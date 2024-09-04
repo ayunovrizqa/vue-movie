@@ -7,6 +7,9 @@ Live demo hosted on Netlify can be found at [https://movies.jason.codes](https:/
 Built as a side project to learn some new skills 🔥🔥
 
 ## Quick setup
+## Deploying to Netlify
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ayunovrizqa/vue-movie)
 
 1. Take a copy of `.env.sample` and re-name to `.env`
 2. Get your [TMDb](https://developers.themoviedb.org/3) API key
